@@ -1,6 +1,6 @@
 ############################################################
 #
-# script pour creer une session
+# script pour creer une session persistante
 #
 ###########################################################
 
